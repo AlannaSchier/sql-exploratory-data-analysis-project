@@ -10,7 +10,7 @@ The goal was to:
 - calculate KPIs, 
 - identify performance patterns related to **products, customers, and sales**.
 
-This project was developed as part of a **SQL course** using simulated data.
+This project was developed as part of the **SQL course by Data With Baraa** and uses simulated data.
 
 ---
 
